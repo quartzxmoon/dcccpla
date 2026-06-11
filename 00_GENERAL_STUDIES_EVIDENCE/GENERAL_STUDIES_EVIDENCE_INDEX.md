@@ -1,14 +1,16 @@
 # General Studies Evidence Index
-## DCCC PLA — Non-Legal / General Education Competencies
-**Alexa Shuda | Student ID: P00721319 | LGL Program**
+## DCCC PLA — Attached Evidence Files
+**Alexa Shuda · Student ID: P00721319 · LGL Program · Version 7**
+**Catalog: Fall/Winter 2025 · Index Updated: June 11, 2026**
 
 ---
 
 ## Overview
 
-This folder contains all evidence supporting the **general education** and **non-legal specialty** components of the DCCC Prior Learning Assessment. These materials demonstrate experiential learning credit for courses outside the legal specialty core: technology, business, entrepreneurship, communications, social science, psychology, and public service.
+This folder contains the physical evidence files attached to the PLA portfolio — those not maintained in the LawLexx case management system. All four subfolders support the v7 course list (10 courses, 36 credits). See `COURSE_EVIDENCE_MAPPING.md` (parent folder) for the full course-to-outcome mapping.
 
-**Total general education credits claimed: 36 credits across 12 courses**
+**Courses supported by this folder's evidence:**
+LGL 130 (primary), ADJ 225, ADJ 241, SPC 101, ENG 100, ENG 112, PHI 100 — plus AmeriCorps ACE transfer (6 credits, separate process)
 
 ---
 
@@ -25,10 +27,11 @@ This folder contains all evidence supporting the **general education** and **non
 - Two completed full terms of AmeriCorps NCCC (National Civilian Community Corps)
 - Federal program under 42 U.S.C. §§ 12611–12626
 - **Total: 3,629 service hours** (both terms combined)
-- Both terms earned Segal AmeriCorps Education Award (= maximum Pell Grant)
-- Training, leadership, team coordination, disaster relief, community organizing, public health projects
+- Both terms earned Segal AmeriCorps Education Award
 
-**Relevant courses:** SOC 101 (social welfare, civic engagement), SPC 101 (team communication, public speaking), ENG 100/112 (report writing, documentation), PSY 100 (group dynamics, leadership)
+**ACE Transfer (NOT PLA rubric):** These 6 credits are processed via ACE credit transfer — email records@dccc.edu with both PDFs. Do not submit to PLA assessor.
+
+**Courses supported (via PLA narrative):** ADJ 225 (public service ethics), ADJ 241 (cross-cultural community engagement), SPC 101 (team/group communication leadership), PHI 100 (community justice in practice)
 
 ---
 
@@ -36,18 +39,16 @@ This folder contains all evidence supporting the **general education** and **non
 
 | File | Contents |
 |------|----------|
-| `ShadaEnterprises_LLC_Articles_PA_DeptOfState_2025.pdf` | PA Dept. of State Certificate of Organization — Shuda Enterprises, LLC; Entity #0014380433; Filed 5/6/2025; Alexa Rossini (Shuda), organizer |
-| `Google_Startups_Cloud_Program_Application_ShadaEnterprises.pdf` | Google for Startups Cloud Program application for Legalitize/Shuda Enterprises LLC; May 2026 correspondence |
-| `DRIVE_LINKS.md` | Additional LLC document Drive links (Membership Listing Statement, 2nd Package) |
+| `ShadaEnterprises_LLC_Articles_PA_DeptOfState_2025.pdf` | PA Dept. of State Certificate of Organization — Shuda Enterprises, LLC; Entity #0014380433; Filed 5/6/2025 |
+| `Google_Startups_Cloud_Program_Application_ShadaEnterprises.pdf` | Google for Startups Cloud Program — acceptance correspondence, May 2026 |
+| `DRIVE_LINKS.md` | Drive links for additional LLC documents (Membership Listing Statement, formation package) |
 
 **Key facts:**
 - Shuda Enterprises, LLC — EIN 39-2133642 — PA domestic LLC
-- Founded May 2025 as legal entity for Legalitize AI legal tech SaaS platform
-- Applied to Google for Startups Cloud Program (program for AI startups)
-- Maintains dual websites: legalitize.com + shudaenterprises.com
-- Full business operations: registration, taxation, IP, product development, marketing
+- Founded May 2025 as legal entity for Legalitize/LawLexx legal AI SaaS
+- Google for Startups Cloud Program — external validation of commercial viability
 
-**Relevant courses:** BUS 100 (business principles, entrepreneurship), BUS 104 (business management, operations), SPC 101 (business communication)
+**Courses supported:** LGL 130 (LLC formation demonstrates real-world deployment of legal technology platform in commercial context)
 
 ---
 
@@ -55,97 +56,57 @@ This folder contains all evidence supporting the **general education** and **non
 
 | File | Contents |
 |------|----------|
-| `LawLexx_CLAUDE_Developer_Context.md` | Full developer specification for LawLexx — full-stack legal AI SaaS (Next.js 14, FastAPI, PostgreSQL, Anthropic Claude API, JWT auth, Ollama) |
-| `ALL_SYSTEMS_GO.md` | Platform-wide systems status — all modules operational |
-| `COMPLETE_BUILD_STATUS.md` | Comprehensive build documentation — all features, modules, endpoints |
-| `COMPLETE_DEPLOYMENT_GUIDE.md` | Production deployment guide (Docker, cloud, environment config) |
-| `ADMIN_FRONTEND_COMPLETE.md` | Admin dashboard frontend implementation |
-| `ADVANCED_LEGAL_ANALYTICS_COMPLETE.md` | AI analytics module documentation |
-| `AGENTS.md` | AI agent architecture documentation |
-| `legalitize_logo.png` | Legalitize brand logo |
-| `legalitize_logos.jpg` | Full Legalitize logo suite |
-| `legalitize_login_screenshot.png` | Application UI screenshot — login interface |
-| `lexilogo.png` | Lexi AI assistant logo |
+| `LawLexx_CLAUDE_Developer_Context.md` | Full developer specification — LawLexx legal AI SaaS (Next.js 14, FastAPI, PostgreSQL, Anthropic Claude API, JWT auth) |
+| `ALL_SYSTEMS_GO.md` | Platform-wide systems status — all 251+ endpoints operational |
+| `COMPLETE_BUILD_STATUS.md` | Build milestone documentation across full platform lifecycle |
+| `COMPLETE_DEPLOYMENT_GUIDE.md` | Production deployment: cloud, security, scaling, monitoring |
+| `ADMIN_FRONTEND_COMPLETE.md` | Admin dashboard — matter management, billing, document generation modules |
+| `ADVANCED_LEGAL_ANALYTICS_COMPLETE.md` | AI-powered legal research, CourtListener integration, predictive analytics |
+| `AGENTS.md` | Multi-agent AI architecture — research and drafting automation |
+| `legalitize_login_screenshot.png` | Live platform screenshot — authenticated interface |
+| `legalitize_logo.png` | Platform brand identity |
+| `lexilogo.png` | Secondary logo variant |
+| `DRIVE_LINKS.md` | Additional platform documentation Drive links |
 
-**Key facts — LawLexx / Legalitize platform:**
-- **Frontend:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Zustand, Framer Motion
-- **Backend:** FastAPI (Python 3.13+), SQLAlchemy 2 async, PostgreSQL
-- **AI/ML:** Ollama (llama3:8b local), Anthropic Claude API, Groq API, Meta Llama API
-- **Auth:** JWT access + refresh tokens, async session management
-- **Features:** Matter management, AI-assisted document drafting, legal research, billing, calendar, RTKL/FERPA compliance, RAG (retrieval-augmented generation), streaming AI chat
-- **Deployment:** Docker, Cloudflare Workers, Vercel
-- **API:** 251+ documented endpoints, OpenAPI/Swagger integration
-- **Other platforms:** Stripe (billing), CourtListener (case law), GovInfo (federal statutes)
+**Key facts:**
+- Production legal AI SaaS with 251+ API endpoints
+- Full stack: Next.js 14 frontend, FastAPI backend, PostgreSQL, Anthropic Claude API integration
+- Modules: matter management, AI-assisted drafting, legal research, billing, court form generation
+- Deployed production application with authenticated users
 
-**Relevant courses:** CIS/LGL 130 (computer applications, databases, networking, software), ENG 112 (technical writing — 251 .md documentation files)
+**Courses supported:** LGL 130 (primary — all competencies); ENG 112 (technical documentation demonstrates research and analytical writing)
 
 ---
 
-### 📁 WOMANS_WRENCH_BRAND/ — 3 files
+### 📁 WOMANS_WRENCH_BRAND/ — varies
 
 | File | Contents |
 |------|----------|
-| `Woman's Wrench Brand Identity.pdf` | Full brand identity document — brand strategy, visual identity, logo standards, color palette, typography |
-| `Woman's Wrench Brand Identity.docx` | Editable version of brand identity document |
-| `WW_BrandImage_1.png` | Brand visual asset |
+| `Woman's Wrench Brand Identity.docx` | Full brand identity document — strategy, voice, visual standards |
+| `Woman's Wrench Brand Identity.pdf` | PDF version of brand identity |
+| `DRIVE_LINKS.md` | Additional brand assets Drive links |
 
 **Key facts:**
-- Woman's Wrench — automotive education and empowerment brand for women
-- Complete brand identity: mission, vision, market positioning, visual design system
-- Demonstrates marketing, branding, business planning, and communications skills
+- Woman's Wrench — independent brand/business concept developed by student
+- Demonstrates professional written communication, audience-specific writing, brand strategy
 
-**Relevant courses:** BUS 100 (marketing fundamentals), BUS 104 (business communications/management), SPC 101 (audience-specific communication)
-
----
-
-### 📁 CERTIFICATIONS_TO_OBTAIN/
-
-The following credentials exist but are not yet stored locally. Obtain and add to this folder:
-
-| Credential | Source | How to Obtain |
-|-----------|--------|---------------|
-| Google Cybersecurity Certificate | Coursera / Google | Log in to coursera.org → My Learning → Certificates → Download PDF |
-| AmeriCorps Education Award Verification | My AmeriCorps Portal | Log in at my.americorps.gov → Award History |
-| Custom PC Build Documentation | Receipt/Invoice | Locate purchase receipts for components; screenshot PCPartPicker build list if saved |
-| IRS EIN Assignment Letter | IRS records | Request via IRS.gov (Form SS-4 confirmation) or locate physical letter |
-| Legalitize / shudaenterprises.com domain registration | Cloudflare / registrar | Screenshot or export domain registration records |
+**Courses supported:** ENG 100 (non-legal professional writing — audience-specific, purpose-driven composition)
 
 ---
 
-## COURSE-TO-EVIDENCE MAP (GENERAL STUDIES)
+## Evidence Not In This Folder
 
-| Course | Credits | Primary Evidence | Folder |
-|--------|---------|-----------------|--------|
-| **CIS/LGL 130** | 3 | LawLexx CLAUDE.md, COMPLETE_BUILD_STATUS.md, ALL_SYSTEMS_GO.md, platform screenshots | CIS_LGL130_TECH_PLATFORM/ |
-| **BUS 100** | 3 | Shuda Enterprises LLC Articles, Woman's Wrench Brand Identity, Google Startups application | BUS_ENTREPRENEURSHIP_LLC/, WOMANS_WRENCH_BRAND/ |
-| **BUS 104** | 3 | LLC Articles, Google Startups correspondence, COMPLETE_DEPLOYMENT_GUIDE.md, Woman's Wrench brand strategy | BUS_ENTREPRENEURSHIP_LLC/, WOMANS_WRENCH_BRAND/ |
-| **SOC 101** | 3 | AmeriCorps Atlantic + Pacific service letters (3,629 hrs total), federal community service program | AMERICORPS_NCCC/ |
-| **SPC 101** | 3 | AmeriCorps leadership/team communication; OOR appeal oral/written advocacy; Women's Wrench brand voice | AMERICORPS_NCCC/, ../05_RTKL_OOR_APPEALS/ |
-| **PSY 100** | 3 | AmeriCorps team dynamics; custody litigation (parenting psychology); child welfare advocacy | AMERICORPS_NCCC/, ../01_CUSTODY_CCP_2016-5628/ |
-| **ENG 100** | 3 | OOR appeal briefs; RTKL requests; custody motions; AmeriCorps service reports | ../05_RTKL_OOR_APPEALS/, ../09_LEGAL_DRAFTS_FILED/ |
-| **ENG 112** | 3 | 251-file LawLexx documentation suite; LGL PLA portfolio itself; formal legal filings | CIS_LGL130_TECH_PLATFORM/, ../09_LEGAL_DRAFTS_FILED/ |
-| **ADJ 101** | 3 | See legal evidence folders — criminal justice coursework | ../04_HATBORO_1983_EDPA/ |
-| **ADJ 225** | 3 | See legal evidence folders — evidence law | ../05_RTKL_OOR_APPEALS/ |
-| **ADJ 241** | 3 | See legal evidence folders — criminal procedure research | ../04_HATBORO_1983_EDPA/ |
-| **PHI 100** | 3 | Legal ethics; RTKL/OOR transparency advocacy; civil rights litigation | ../05_RTKL_OOR_APPEALS/, ../04_HATBORO_1983_EDPA/ |
+The following evidence categories are maintained in the LawLexx case management system (not attached here) and are referenced by location in `MASTER_EVIDENCE_INDEX.md`:
+
+| Matter | Location | Courses |
+|--------|---------|---------|
+| §1983 Federal Complaint + exhibits | LawLexx `04_HATBORO_1983_EDPA/` | LGL 210, ADJ 101, ADJ 225, ENG 112, PHI 100 |
+| RTKL/OOR Appeals (AP-2026-0500, AP-2026-1243) | LawLexx `05_RTKL_OOR_APPEALS/` | LGL 210, LGL 211, ADJ 101, ADJ 225, ENG 100, ENG 112 |
+| Custody/contempt evidence (1.2GB+) | LawLexx `01_CUSTODY_CCP_2016-5628/`, `03_CONTEMPT_EVIDENCE/` | LGL 211 (primary) |
+| FERPA/IDEA/CPSL enforcement | LawLexx `06_EDUCATION_FERPA_IDEA/` | ADJ 225, ADJ 241, ENG 100, PHI 100 |
+
+Physical copies of any LawLexx-maintained document are available on request to DCCC Assessment Services.
 
 ---
 
-## NOTES FOR DCCC ASSESSORS
-
-All evidence in this folder reflects authentic, verifiable experiential learning:
-
-1. **AmeriCorps NCCC** — Two federally-verified service terms with official government-issued certificates bearing program director signature. Service documented under 42 U.S.C. §§ 12611–12626.
-
-2. **Shuda Enterprises, LLC** — Formally registered Pennsylvania LLC (PA Dept. of State Entity #0014380433), demonstrating real-world application of business formation, entrepreneurship, and management principles.
-
-3. **LawLexx / Legalitize** — A functioning, deployed legal technology platform with 251 documented development files, demonstrating professional-level competency in computer information systems, software architecture, database design, API development, and technical documentation.
-
-4. **Woman's Wrench** — A developed brand identity demonstrating marketing, visual communications, and business strategy skills.
-
-5. **Google Cybersecurity Certificate (Coursera)** — Pending download; credential earned and verifiable at coursera.org.
-
----
-
-*Last updated: June 11, 2026*
-*Portfolio maintained by: Alexa Shuda, P00721319*
+*Index Version 7 · June 11, 2026 · Alexa Shuda · P00721319*

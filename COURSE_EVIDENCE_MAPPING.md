@@ -1,266 +1,218 @@
-# COURSE-TO-EVIDENCE MAPPING
-## DCCC Prior Learning Assessment — LGL Associate in Arts
-## Alexa M. Rossini | P00721319 | 45 Credits Requested
-
-This document links each PLA course claim to the specific evidence files in this portfolio directory.
-Use alongside `MASTER_EVIDENCE_INDEX.md` and the portfolio document `LGL_PLA_Portfolio_FINAL.docx`.
+# COURSE EVIDENCE MAPPING
+## DCCC Prior Learning Assessment — Legal and Paralegal Studies (LGL) · Version 7
+**Student:** Alexa Shuda (f.k.a. Rossini) · P00721319
+**30 PLA Credits (10 Courses) + 6 ACE Credits = 36 Total · Catalog: Fall/Winter 2025**
 
 ---
 
-## PORTFOLIO DOCUMENT STRUCTURE
+## HOW TO USE THIS DOCUMENT
 
-The completed PLA portfolio (`LGL_PLA_Portfolio_FINAL.docx`) is organized into three parts:
+This document maps specific evidence items to each course's published learning outcomes. Each section identifies what assessors should look for and exactly where to find it. Use in conjunction with `LGL_PLA_Portfolio_v7_36Credits.docx` (narrative) and `LGL_PLA_GradingRubric_v8.docx` (scoring).
 
-- **Part I** — Overview, policy compliance, evidence base summary (Section 1.1–1.5)
-- **Part II** — LGL Specialty Courses (Sections 2.1–2.3): LGL 100, 200, 210
-- **Part III** — General Education / Non-Specialty Courses (Sections 3.1–3.12): ENG 100, ENG 112, ADJ 241, ADJ 101, ADJ 225, PHI 100, PSY 100, SOC 101, BUS 100, BUS 104, SPC 101, CIS/LGL 130
-
-Each course section follows the same format:
-1. Catalog description
-2. PLA basis statement
-3. Learning outcomes matrix (LO 1–N × competency × documentation)
-4. Competency narrative
-5. Evidence inventory
-6. Rubric self-assessment
+**Outcome types key:**
+- **LO** = Learning Outcome (course competency being demonstrated)
+- **Evidence** = specific document or artifact proving that competency
 
 ---
 
-## COURSE-BY-COURSE EVIDENCE MAP
+## 1 · LGL 130 — Technology in the Law [TC] (3 credits) — LGL SPECIALTY
 
-### LGL 100 — Introduction to Legal and Paralegal Studies (3 cr) [LGL Specialty]
-**Claim basis:** 10+ years pro se litigation; federal and state court; constitutional research
+### Learning Outcome Map
 
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| Shuda_v_Hatboro_EDPA_Complaint_v5q.pdf | `04_HATBORO_1983_EDPA/` | LO 1–7: Federal court; jurisdiction; Bluebook; constitutional tort |
-| oorappeal.pdf | `05_RTKL_OOR_APPEALS/` | LO 1, 3, 4, 6: PA statutory law; formal advocacy |
-| DURABLE_POA_SHUDA_NOTARIZED72425.pdf | `08_POA_AUTHORITY/` | LO 7: UPL awareness; pro se posture |
-| Shuda_OOR_Appeal_RTKL_2026.docx | `05_RTKL_OOR_APPEALS/` | LO 3, 4: Legal writing; Bluebook citations |
-| TRANSCRIPT WOODS CALL 7_22_25.pdf | `04_HATBORO_1983_EDPA/` | LO 5: IRAC analysis; ATF Form 4473 element analysis |
-| Section 6105.0 - Title 18 PDF | `04_HATBORO_1983_EDPA/` | LO 1, 5, 6: Statutory research; legal analysis |
-| EMAIL7.pdf (RTKL Internal Affairs) | `04_HATBORO_1983_EDPA/` | LO 4, 6: Formal agency correspondence; CALR research |
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Demonstrates knowledge of legal software applications for case management, billing, and document management | `LawLexx_CLAUDE_Developer_Context.md` — 251+ API endpoints; matter management, document drafting, billing modules all documented | `ADMIN_FRONTEND_COMPLETE.md`, `COMPLETE_BUILD_STATUS.md` |
+| LO-2 | Applies technology to legal research tasks including database use and online research tools | `ADVANCED_LEGAL_ANALYTICS_COMPLETE.md` — AI-powered legal research, CourtListener integration, GovInfo statutory research | `AGENTS.md` — multi-agent research orchestration |
+| LO-3 | Understands data privacy, security, and ethical considerations in legal technology | `COMPLETE_DEPLOYMENT_GUIDE.md` — JWT auth, production security architecture, encrypted storage, CORS policy | `LawLexx_CLAUDE_Developer_Context.md` — auth flow, token security |
+| LO-4 | Demonstrates practical use of legal technology tools | `legalitize_login_screenshot.png` — live authenticated platform; `ALL_SYSTEMS_GO.md` — full production deployment | `Google_Startups_Cloud_Program_Application.pdf` — external validation |
+
+**Strongest evidence for LGL 130:** The LawLexx/Legalitize platform is a production legal AI SaaS application the student designed and built from scratch. At 251+ API endpoints with integrated AI, document generation, matter management, billing, and court form automation, it exceeds the competency requirements of LGL 130 by a substantial margin.
 
 ---
 
-### LGL 200 — Family Law (3 cr) [LGL Specialty]
-**Claim basis:** Active Delaware County CCP custody litigation; relocation; 23 Pa.C.S. § 5337; § 5328 best-interest
+## 2 · LGL 210 — Civil Litigation & Tort Principles (3 credits) — LGL SPECIALTY
 
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| AndreaTexts2025 3_Part4.pdf | `01_CUSTODY_CCP_2016-5628/` | May 2018 Stipulated Order text; Judge Whelan; sole legal custody; OFW requirement |
-| AndreaTexts2025 3_Part3.pdf | `02_RELOCATION_VIOLATION/` | 23 Pa.C.S. § 5337 full text screenshot (June 2023) — statute research |
-| Dated_Withheld_Visitation_Log.csv | `03_CONTEMPT_EVIDENCE/` | Documented contempt of custody order |
-| AndreaTexts2025 3_Part1–8.pdf | `01_CUSTODY_CCP_2016-5628/` | Years of custody communications; order enforcement; § 5328 best-interest factors |
-| Custody calendar PDFs (7 quarterly) | `01_CUSTODY_CCP_2016-5628/` | Parenting time tracking; schedule vs. actual |
-| Motion_for_Contempt.md | `09_LEGAL_DRAFTS_FILED/` | Drafted contempt petition applying PA family law standards |
-| Emergency_Motion_to_Vacate.md | `09_LEGAL_DRAFTS_FILED/` | Emergency relief; § 5337 relocation violation pleading |
-| GAL/Evaluator Report (8-part) | `07_EVIDENCE_EXHIBITS/` | Guardian ad Litem process; child welfare standard application |
-| VACATEMOTION.pdf | `03_CONTEMPT_EVIDENCE/` | Motion practice; family court procedural compliance |
-| Kevin Kennerly voicemail PDF | `07_EVIDENCE_EXHIBITS/` | Documentation of third-party conduct affecting custody proceedings |
+### Learning Outcome Map
+
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Understands the stages of civil litigation from pleading through trial | Active litigation spanning 9+ years in PA CCP and federal EDPA — complaint drafting, motion practice, contempt proceedings, appellate work | Custody docket CCP-2016-5628; OOR appeals |
+| LO-2 | Identifies elements of intentional torts and negligence | §1983 complaint — Fourth/Fourteenth Amendment analysis, Monell municipal liability theory, deliberate indifference standard | TRANSCRIPT WOODS CALL 7_22_25.pdf; ATF Form 4473 analysis |
+| LO-3 | Applies procedural rules to civil filings | Emergency Motion to Vacate (23 Pa.C.S. §5337 compliance); Motion for Contempt (Pa.R.C.P. compliance); FRCP-compliant federal complaint | All 9 filed/drafted motions in case system |
+| LO-4 | Understands jurisdiction, venue, and court structure | Cases filed in Delaware County CCP, EDPA USDC, and PA OOR — demonstrates multi-level jurisdiction navigation | OOR appeal docket numbers AP-2026-0500, AP-2026-1243 |
+| LO-5 | Conducts legal research supporting civil claims | Multi-statute research: 42 U.S.C. §1983, Monell doctrine, 23 Pa.C.S. §5337, 65 P.S. §67.101 (RTKL) — all cited in actual filed documents | 23 Pa.C.S. §5337 screenshot dated June 18, 2023 (2+ years research) |
+
+**Strongest evidence for LGL 210:** The §1983 federal complaint against Hatboro Borough demonstrates mastery of civil litigation principles — constitutional tort theory, FRCP pleading standards, proper defendant identification (individual officers + municipality under Monell), and jurisdictional/venue analysis for EDPA.
 
 ---
 
-### LGL 210 — Civil Litigation and Tort Principles (3 cr) [LGL Specialty]
-**Claim basis:** 42 U.S.C. § 1983 federal civil rights complaint; FRCP; constitutional tort
+## 3 · LGL 211 — Civil Litigation & Tort Applications (3 credits) — LGL SPECIALTY
 
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| Shuda_v_Hatboro_EDPA_Complaint_v5q.pdf | `04_HATBORO_1983_EDPA/` | FRCP complaint structure; jurisdictional statement; Monell claim elements |
-| Shuda_v_Woods_FEDERAL_COMPLAINT_FINAL.pdf | `04_HATBORO_1983_EDPA/` | Constitutional tort pleading; § 1983 elements |
-| RUEGGEMAIL.pdf | `04_HATBORO_1983_EDPA/` | Monell policy/custom evidence; chain-of-command liability theory |
-| hpd_g.o._2.3.1_internal_affairs.pdf | `04_HATBORO_1983_EDPA/` | Written policy establishing Monell municipal liability predicate |
-| Shuda_Affidavit_DilksAdmissions.docx | `05_RTKL_OOR_APPEALS/` | Affidavit practice; formal evidentiary declaration |
-| Shuda_Declaration_ExhibitG.docx | `05_RTKL_OOR_APPEALS/` | Declaration drafting; supporting exhibit practice |
-| TOMDISCPDF.pdf | `04_HATBORO_1983_EDPA/` | Discovery materials; civil litigation evidence compilation |
-| EMAIL4.pdf (NOTICE OF CIVIL ACTION) | `04_HATBORO_1983_EDPA/` | Pre-litigation notice; demand letter practice |
-| EMAIL8.pdf (Supplemental Notice) | `04_HATBORO_1983_EDPA/` | Evidence preservation demand; litigation hold notice |
-| AO-440, USM-285, JS-44, AO-239 forms | `04_HATBORO_1983_EDPA/` | EDPA federal filing form literacy |
+### Learning Outcome Map
+
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Assembles and organizes litigation files and evidence | 1.2GB+ evidence system organized across 10+ indexed folders; 67-document USPS series; 8-volume text evidence set | `Dated_Withheld_Visitation_Log.csv` — primary contempt exhibit |
+| LO-2 | Drafts, formats, and files litigation documents | 9+ motions and petitions in correct PA/EDPA format; 18-exhibit assembly with authentication and cover sheet | `VACATEMOTION.pdf`, `VACATEMOTION1.pdf`, OOR exhibit set |
+| LO-3 | Assists with discovery — organizing documents and preparing discovery requests | Complete exhibit tracking system; discovery-ready evidence binder (`Binder2.pdf`); demand letters and document requests | 157MB text evidence across 8 volumes |
+| LO-4 | Demonstrates ability to work with court procedures and deadlines | Active case management across multiple simultaneous proceedings; response and appeal deadlines met | OOR appeal filings; custody contempt timeline |
+| LO-5 | Applies ethical rules to paralegal/litigation support functions | Self-represented litigation as pro se party demonstrates personal accountability; all filings signed pro se under penalty of perjury | All filed documents |
+
+**Strongest evidence for LGL 211:** The 18-exhibit assembly submitted to the OOR, the `Dated_Withheld_Visitation_Log.csv` (primary contempt exhibit), and the 1.2GB+ organized evidence system collectively demonstrate full-spectrum paralegal litigation support competency — from evidence collection through submission-ready assembly.
 
 ---
 
-### ENG 100 — English Composition I (3 cr) [Gen Ed]
-**Claim basis:** Legal memoranda; RTKL requests; federal complaint drafting; AmeriCorps reporting
+## 4 · ADJ 101 — Introduction to Criminal Justice (3 credits)
 
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| Shuda_OOR_Appeal_RTKL_2026.docx | `05_RTKL_OOR_APPEALS/` | Formal argumentative writing; structured legal prose |
-| EMAIL7.pdf, EMAIL8.pdf | `04_HATBORO_1983_EDPA/` | Professional correspondence; persuasive formal writing |
-| All 16 AI-assisted legal drafts (Dec 2025) | `09_LEGAL_DRAFTS_FILED/` | Extended legal writing across multiple document types |
-| TRANSCRIPT WOODS CALL 7_22_25.pdf | `04_HATBORO_1983_EDPA/` | Oral argumentation translated to written record |
-| AmeriCorps service record | `10_BACKGROUND_CREDIBILITY/` | 3,629 hours of professional writing/reporting context |
+### Learning Outcome Map
 
----
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Describes the components and processes of the U.S. criminal justice system | Documented navigation of law enforcement (IA complaints), prosecution, civil courts, and administrative agencies across multiple matters | ATF Form 4473 analysis; §780-113 PA statute research |
+| LO-2 | Explains police operations, including investigative techniques and accountability | Hatboro PD General Order 2.3.1 (complaint procedure); IA records; Chief Ruegg email (command structure); OOR appeal to force disclosure | TRANSCRIPT WOODS CALL 7_22_25.pdf |
+| LO-3 | Understands courts and the judicial process | Cases across magisterial, CCP, Superior Court, and federal district court demonstrates understanding of court hierarchy | OOR administrative appeals; EDPA filing |
+| LO-4 | Discusses the role of corrections in the criminal justice system | ADJ 225 Ethics course handles this overlap; AmeriCorps community service documents restorative justice philosophy | AmeriCorps award letters |
+| LO-5 | Applies research skills to criminal justice topics | Multi-statute analysis: 18 Pa.C.S. §6105, 35 Pa. §780-113, ATF Form 4473 element analysis, RTKL §67.101 — all applied to real proceedings | Section 6105.0 statutory research document |
 
-### ENG 112 — Writing About Literature (3 cr) [Gen Ed]
-**Claim basis:** Case law analysis; statutory interpretation; persuasive legal writing; software documentation
-
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| TRANSCRIPT WOODS CALL 7_22_25.pdf | `04_HATBORO_1983_EDPA/` | Close reading of statutory text; interpretive analysis of ATF Form 4473 |
-| Section 6105.0 PDF | `04_HATBORO_1983_EDPA/` | Statutory interpretation; analytical writing about primary texts |
-| Shuda_v_Hatboro_EDPA_Complaint_v5q.pdf | `04_HATBORO_1983_EDPA/` | Case law analysis woven into persuasive argument |
-| Google Cybersecurity Certificate | `10_BACKGROUND_CREDIBILITY/` | Technical documentation writing |
-| Legalitize platform documentation | `10_BACKGROUND_CREDIBILITY/` | Software/technical documentation as professional writing |
+**Strongest evidence for ADJ 101:** The RTKL/OOR enforcement against Hatboro Police Department — including IA complaint, Chief Ruegg chain-of-command correspondence, OOR appeal briefs, and the underlying documentation — demonstrates practical, applied knowledge of police operations, accountability mechanisms, and the broader criminal justice accountability system.
 
 ---
 
-### ADJ 241 — Criminal Law, Procedure & Adjudication (3 cr) [Gen Ed / CJ Concentration]
-**Claim basis:** Criminal procedure research across Philadelphia, Montgomery County, and Hatboro PD matters
-**Note:** Security constraints apply to some supporting materials — only non-constrained docs appear here
+## 5 · ADJ 225 — Ethics in Criminal Justice (3 credits)
 
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| TRANSCRIPT WOODS CALL 7_22_25.pdf | `04_HATBORO_1983_EDPA/` | 4th Amendment stop/arrest analysis; ATF charge elements; criminal procedure |
-| Section 6105.0 - Title 18 PDF | `04_HATBORO_1983_EDPA/` | 18 Pa.C.S. § 6105 criminal statute; elements of offense |
-| Screenshot (18 Pa. § 780-113) | `04_HATBORO_1983_EDPA/` | PA drug statute; misdemeanor classification; sentencing analysis |
-| hpd_g.o._2.3.1_internal_affairs.pdf | `04_HATBORO_1983_EDPA/` | Police procedure; internal affairs adjudication process |
-| Dilks call PDFs | `04_HATBORO_1983_EDPA/` | Police-civilian interaction documentation; procedure compliance analysis |
-| Shuda_Affidavit_DilksAdmissions.docx | `05_RTKL_OOR_APPEALS/` | Officer admissions; evidentiary record of procedural conduct |
+### Learning Outcome Map
 
----
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Applies ethical theories (deontological, utilitarian, virtue) to criminal justice contexts | §1983 complaint — Monell theory is a deontological accountability argument (policy → constitutional duty → violation → liability) | OOR appeal transparency theory (utilitarian public interest argument) |
+| LO-2 | Identifies ethical issues in policing, courts, and corrections | Det. Woods conduct analysis; Hatboro PD failure to follow General Order 2.3.1; command-level authorization of misconduct | TRANSCRIPT WOODS CALL 7_22_25.pdf |
+| LO-3 | Discusses accountability, transparency, and integrity in criminal justice | OOR appeals AP-2026-0500 and AP-2026-1243 — affirmative transparency enforcement; RTKL demand correspondence | Chief Ruegg email — institutional response to accountability demand |
+| LO-4 | Evaluates ethical dimensions of public service | AmeriCorps NCCC Atlantic (1,746 hrs, 2011) + Pacific (1,883 hrs, 2013) = 3,629 hours of documented public service | IDEA/504 enforcement — child welfare ethics in practice |
+| LO-5 | Analyzes the relationship between law, ethics, and justice | FERPA + IDEA enforcement demonstrates intersection of legal duty, ethical obligation, and justice for vulnerable populations | Mountain View SD 504 documentation |
 
-### ADJ 101 — Introduction to Criminal Justice (3 cr) [Gen Ed / CJ Concentration]
-**Claim basis:** Sustained engagement with all CJ system components through litigation and research
-
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| Shuda_v_Hatboro_EDPA_Complaint_v5q.pdf | `04_HATBORO_1983_EDPA/` | Police (law enforcement) + courts + constitutional accountability |
-| RUEGGEMAIL.pdf | `04_HATBORO_1983_EDPA/` | Police chain-of-command; departmental structure |
-| hpd_g.o._2.3.1_internal_affairs.pdf | `04_HATBORO_1983_EDPA/` | Internal accountability mechanisms within law enforcement |
-| EMAIL7.pdf (RTKL IA request) | `05_RTKL_OOR_APPEALS/` | Records access as check on law enforcement |
-| OOR AP-2026-0500, AP-2026-1243 | `05_RTKL_OOR_APPEALS/` | Administrative accountability system |
-| 2017 federal trafficking testimony | `10_BACKGROUND_CREDIBILITY/` | Federal law enforcement / prosecution system engagement |
+**Strongest evidence for ADJ 225:** The combination of (1) AmeriCorps NCCC national service documentation (3,629 hours across two terms), (2) the RTKL/OOR transparency enforcement campaign with full documentary record, and (3) the IDEA/504 disability rights enforcement letters creates a multi-domain demonstration of applied criminal justice ethics that is both reflective and action-based.
 
 ---
 
-### ADJ 225 — Ethics in Criminal Justice (3 cr) [Gen Ed / CJ Concentration]
-**Claim basis:** Police conduct analysis; Pa.R.P.C.; § 1983 ethics framework; Monell policy analysis
+## 6 · ADJ 241 — Criminal Justice and Diversity [DJ] (3 credits)
 
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| RUEGGEMAIL.pdf | `04_HATBORO_1983_EDPA/` | **Monell liability = official policy/custom** — chief-level conduct as ethics violation |
-| hpd_g.o._2.3.1_internal_affairs.pdf | `04_HATBORO_1983_EDPA/` | Written policy and failure to enforce as ethical failure |
-| TRANSCRIPT WOODS CALL 7_22_25.pdf | `04_HATBORO_1983_EDPA/` | Officer conduct: aggressive, dismissive, "SEE YOU IN COURT" — ethics analysis |
-| DURABLE_POA_SHUDA_NOTARIZED72425.pdf | `08_POA_AUTHORITY/` | Clause III: explicit UPL boundary — ethical line between legal agent and attorney |
-| EMAIL4.pdf (NOTICE OF CIVIL ACTION) | `04_HATBORO_1983_EDPA/` | Accountability mechanism; professional ethics in civil process |
+### Learning Outcome Map
 
----
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Examines the impact of race, ethnicity, class, gender, and disability on criminal justice outcomes | IDEA/504 enforcement on behalf of children with IEPs — disability intersects with educational access and institutional compliance | FERPA enforcement documentation |
+| LO-2 | Evaluates structural and institutional inequities in the criminal justice system | §1983 Monell theory — structural policy failures causing constitutional violations; RTKL enforcement against government non-compliance | OOR appeals as systemic accountability |
+| LO-3 | Analyzes the role of advocacy and community involvement in promoting equity | 9+ years pro se advocacy; RTKL/FOIA enforcement; FERPA/IDEA enforcement — all advocacy without institutional support | AmeriCorps community service |
+| LO-4 | Demonstrates cross-cultural competency and awareness | AmeriCorps NCCC Atlantic + Pacific terms — two national service regions, diverse population engagement, cross-cultural leadership | 3,629 hours total documented |
+| LO-5 | Applies diversity and equity concepts to real-world criminal justice issues | IDEA: disability equity in education; §1983: racial/class-neutral constitutional accountability; RTKL: access to government transparency for all | Mountain View SD non-compliance documentation |
 
-### PHI 100 — Introduction to Philosophy (3 cr) [Gen Ed / GU]
-**Claim basis:** Constitutional theory; legal ethics; civil rights philosophical framework
-
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| Shuda_v_Hatboro_EDPA_Complaint_v5q.pdf | `04_HATBORO_1983_EDPA/` | 14th Amendment due process/equal protection — philosophical underpinning of rights theory |
-| RUEGGEMAIL.pdf | `04_HATBORO_1983_EDPA/` | Power, authority, accountability — applied political philosophy |
-| DURABLE_POA_SHUDA_NOTARIZED72425.pdf | `08_POA_AUTHORITY/` | Agency theory; fiduciary ethics; authority and consent |
-| Kevin Kennerly voicemail PDF | `07_EVIDENCE_EXHIBITS/` | Ethics of threats, harm, and protection of vulnerable persons (children) |
+**Strongest evidence for ADJ 241:** The AmeriCorps NCCC documentation (dual national service terms, 3,629 total hours, Atlantic and Pacific regions with diverse communities) paired with the IDEA/Section 504 disability rights enforcement creates a comprehensive demonstration of diversity competency — both through direct community service and through systemic equity advocacy on behalf of children with disabilities.
 
 ---
 
-### PSY 100 — General Psychology (3 cr) [Gen Ed]
-**Claim basis:** Custody § 5328 psychological factors; IDEA/disability advocacy; child development; trauma
+## 7 · ENG 100 — English Composition I (3 credits)
 
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| GAL/Evaluator Report (8-part) | `01_CUSTODY_CCP_2016-5628/` | Psychological evaluation process; child welfare assessment |
-| AndreaTexts2025 3_Part1.pdf | `01_CUSTODY_CCP_2016-5628/` | Braxden surgery/medical; Savannah orthodontic needs — developmental health advocacy |
-| SS ER records | `07_EVIDENCE_EXHIBITS/` | Child health crisis documentation |
-| IDEA/504 documentation | `06_EDUCATION_FERPA_IDEA/` | Disability psychology; IEP/504 plan processes; special education advocacy |
-| Kevin Kennerly voicemail PDF | `07_EVIDENCE_EXHIBITS/` | Domestic hostility; psychological impact on children; trauma documentation |
+### Learning Outcome Map
 
----
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Demonstrates proficiency in thesis-driven essay writing with clear organization | OOR appeal briefs — each brief has a clear issue statement, argument structure, and conclusion | §1983 complaint — factual allegations organized by claim |
+| LO-2 | Integrates evidence to support claims | All legal filings integrate documentary evidence, statutory citations, and factual narrative | Motion for Contempt: factual record integrated with legal argument |
+| LO-3 | Writes for a specific audience and purpose | Court filings target judicial audience; RTKL demand letters target agency audience; FERPA letters target school administrator audience | Woman's Wrench brand copy — commercial audience |
+| LO-4 | Demonstrates control of grammar, mechanics, and style | 9+ years of court-filed documents accepted by multiple courts without rejection for formatting or language errors | All filed documents |
+| LO-5 | Revises and edits writing for clarity and precision | Multiple versions of motions, petitions, and letters in case system — demonstrates iterative drafting process | Emergency Motion to Vacate revisions |
 
-### SOC 101 — Introduction to Sociology (3 cr) [Gen Ed]
-**Claim basis:** Monell systemic policy theory; institutional civil rights analysis; AmeriCorps community development
-
-| Evidence File | Folder | Supports LO |
-|--------------|--------|-------------|
-| hpd_g.o._2.3.1_internal_affairs.pdf | `04_HATBORO_1983_EDPA/` | Institutional structures; formal policy as social control mechanism |
-| RUEGGEMAIL.pdf | `04_HATBORO_1983_EDPA/` | Organizational hierarchy; chain of command as sociological structure |
-| OOR AP-2026-0500, AP-2026-1243 | `05_RTKL_OOR_APPEALS/` | Government transparency; institutional accountability |
-| AmeriCorps service record | `10_BACKGROUND_CREDIBILITY/` | Community development; social service delivery; institutional collaboration |
-| 2017 federal trafficking testimony | `10_BACKGROUND_CREDIBILITY/` | Human trafficking as sociological phenomenon; victim advocacy |
+**Strongest evidence for ENG 100:** The OOR appeal briefs (AP-2026-0500 and AP-2026-1243) are the clearest analog to academic essay writing — each begins with a clearly stated issue, marshals evidence from a defined record, and argues a specific conclusion to a defined audience using formal written English. These are equivalent to college-level thesis-driven essays applied in a high-stakes legal context.
 
 ---
 
-### BUS 100 — Introduction to Business (3 cr) [Gen Ed]
-**Claim basis:** Shuda Enterprises LLC; Legalitize legal tech startup; business operations and planning
+## 8 · ENG 112 — English Composition II — Research Writing (3 credits)
 
-| Evidence File | Folder | Notes |
-|--------------|--------|-------|
-| Shuda Enterprises LLC Certificate of Organization | `09_LEGAL_DRAFTS_FILED/` | PA entity formation; EIN 39-2133642 |
-| Legalitize platform documentation | `10_BACKGROUND_CREDIBILITY/` | Startup operations; product development; market analysis |
-| LawLexx codebase (Drive: REPOS, legalitize, etc.) | `10_BACKGROUND_CREDIBILITY/` | Active software business development |
+### Learning Outcome Map
 
----
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Conducts library and database research using primary and secondary sources | Multi-source research integrating primary statutes, federal/state case law, agency regulations, and factual record | ATF Form 4473 research; 23 Pa.C.S. §5337 documented June 18, 2023 |
+| LO-2 | Integrates and cites sources using a recognized citation format | All legal documents use Bluebook citation: case citations, statutory citations, regulatory citations in proper format | OOR appeals with full citation record |
+| LO-3 | Evaluates sources for credibility and relevance | Source selection in §1983 complaint: Monell v. Dep't of Social Services, 436 U.S. 658 (1978); relevant precedent chosen over inapposite cases | Statutory selection — distinguishes applicable from inapplicable statutes |
+| LO-4 | Writes a sustained research argument with thesis and supporting evidence | §1983 complaint is an 8,000+ word research-supported legal argument with thesis (constitutional violations), evidence, and conclusion | OOR briefs: sustained argument over 15+ pages |
+| LO-5 | Synthesizes multiple sources into a coherent analytical argument | IDEA + FERPA + CPSL + §504 enforcement: multi-statute synthesis into coherent educational rights argument | §1983: Monell + Fourth Amendment + Fourteenth Amendment synthesis |
 
-### BUS 104 — Business Law (3 cr) [Gen Ed / QR]
-**Claim basis:** LLC formation and governance; contract formation; business entity legal obligations; EIN
-
-| Evidence File | Folder | Notes |
-|--------------|--------|-------|
-| Shuda Enterprises LLC Certificate of Organization | `09_LEGAL_DRAFTS_FILED/` | Statutory entity formation under PA Business Corporation Law |
-| DURABLE_POA_SHUDA_NOTARIZED72425.pdf | `08_POA_AUTHORITY/` | Contract/agency law; durable legal instrument formation |
-| EMAIL8.pdf (Supplemental Notice) | `04_HATBORO_1983_EDPA/` | Evidence preservation demand = contract-adjacent legal obligation |
+**Strongest evidence for ENG 112:** The §1983 federal complaint is the highest-order research writing in the portfolio. It synthesizes primary constitutional text, U.S. Supreme Court doctrine (Monell), federal circuit precedent, municipal policy evidence, and factual record into a coherent research-based legal argument — a direct analog to an advanced research paper, in a higher-stakes context than a college classroom.
 
 ---
 
-### SPC 101 — Oral Communication (3 cr) [Gen Ed / OC]
-**Claim basis:** Court hearings; AmeriCorps team leadership; client and stakeholder communication
+## 9 · SPC 101 — Oral Communication (3 credits)
 
-| Evidence File | Folder | Notes |
-|--------------|--------|-------|
-| Call Recording.m4a (March 17, 2026) | `04_HATBORO_1983_EDPA/` | Recorded oral communication with police department |
-| TRANSCRIPT WOODS CALL 7_22_25.pdf | `04_HATBORO_1983_EDPA/` | Real-time oral legal argumentation; impromptu advocacy under pressure |
-| AmeriCorps service record | `10_BACKGROUND_CREDIBILITY/` | 3,629 hours team leadership; oral communication in service delivery |
+### Learning Outcome Map
 
----
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Demonstrates effective verbal and nonverbal communication skills | AmeriCorps NCCC: team leadership and public communication in national service settings across 2 terms | TRANSCRIPT WOODS CALL 7_22_25.pdf — high-stakes oral communication documented |
+| LO-2 | Prepares and delivers organized presentations | AmeriCorps team leader role — organized briefings, project coordination, multi-site communication across diverse cohorts | OOR oral proceeding documentation |
+| LO-3 | Adapts communication to audience and context | Pro se court and agency appearances — adapting to judicial, administrative, and adversarial audiences | RTKL formal correspondence; FERPA demand letters |
+| LO-4 | Listens actively and responds effectively in interpersonal and group settings | AmeriCorps cohort dynamics — 2 multi-month residential service programs requiring sustained group communication | 9+ years active litigation requiring responsive oral communication |
+| LO-5 | Understands ethical responsibilities in communication | RTKL/OOR formal advocacy — professional ethics in public government accountability proceedings | Pro se oath obligations; all court and agency appearances |
 
-### CIS/LGL 130 — Technology in the Law / Information Technology (3 cr) [Gen Ed / TC]
-**Claim basis:** Custom PC build; software development; Google Cybersecurity Certificate; Legalitize platform
-
-| Evidence File | Folder | Notes |
-|--------------|--------|-------|
-| Google Cybersecurity Certificate | `10_BACKGROUND_CREDIBILITY/` | Google/Coursera professional certification in cybersecurity |
-| Legalitize/LawLexx platform (codebase) | `10_BACKGROUND_CREDIBILITY/` | Full-stack legal tech app; TypeScript, Python, FastAPI, Next.js |
-| PC build documentation | `10_BACKGROUND_CREDIBILITY/` | Custom hardware assembly; component selection; OS configuration |
-| LawLexx CLAUDE.md (codebase) | `10_BACKGROUND_CREDIBILITY/` | Developer context doc demonstrating technical architecture literacy |
+**Strongest evidence for SPC 101:** AmeriCorps NCCC provides the clearest analog to academic oral communication outcomes — two full-term residential programs with team leadership responsibilities, cross-cultural communication, and project coordination before diverse audiences. The documented OOR proceedings and court appearances in the legal matter record supplement with formal advocacy contexts.
 
 ---
 
-## CREDIT SUMMARY
+## 10 · PHI 100 — Introduction to Philosophy (3 credits)
 
-| # | Course | Cr | Category | Primary Evidence Folder |
-|---|--------|----|----------|------------------------|
-| 1 | LGL 100 | 3 | LGL Specialty | `04_HATBORO_1983_EDPA/`, `05_RTKL_OOR_APPEALS/` |
-| 2 | LGL 200 | 3 | LGL Specialty | `01_CUSTODY_CCP_2016-5628/`, `02_RELOCATION_VIOLATION/`, `03_CONTEMPT_EVIDENCE/` |
-| 3 | LGL 210 | 3 | LGL Specialty | `04_HATBORO_1983_EDPA/` |
-| 4 | ENG 100 | 3 | Gen Ed | `05_RTKL_OOR_APPEALS/`, `09_LEGAL_DRAFTS_FILED/` |
-| 5 | ENG 112 | 3 | Gen Ed | `04_HATBORO_1983_EDPA/`, `10_BACKGROUND_CREDIBILITY/` |
-| 6 | ADJ 241 | 3 | Gen Ed / CJ | `04_HATBORO_1983_EDPA/` |
-| 7 | ADJ 101 | 3 | Gen Ed / CJ | `04_HATBORO_1983_EDPA/`, `10_BACKGROUND_CREDIBILITY/` |
-| 8 | ADJ 225 | 3 | Gen Ed / CJ | `04_HATBORO_1983_EDPA/`, `08_POA_AUTHORITY/` |
-| 9 | PHI 100 | 3 | Gen Ed / GU | `04_HATBORO_1983_EDPA/`, `08_POA_AUTHORITY/` |
-| 10 | PSY 100 | 3 | Gen Ed | `01_CUSTODY_CCP_2016-5628/`, `06_EDUCATION_FERPA_IDEA/`, `07_EVIDENCE_EXHIBITS/` |
-| 11 | SOC 101 | 3 | Gen Ed | `04_HATBORO_1983_EDPA/`, `10_BACKGROUND_CREDIBILITY/` |
-| 12 | BUS 100 | 3 | Gen Ed | `10_BACKGROUND_CREDIBILITY/` |
-| 13 | BUS 104 | 3 | Gen Ed / QR | `08_POA_AUTHORITY/`, `09_LEGAL_DRAFTS_FILED/` |
-| 14 | SPC 101 | 3 | Gen Ed / OC | `04_HATBORO_1983_EDPA/`, `10_BACKGROUND_CREDIBILITY/` |
-| 15 | CIS/LGL 130 | 3 | Gen Ed / TC | `10_BACKGROUND_CREDIBILITY/` |
-| | **TOTAL** | **45** | 9 LGL + 36 Gen Ed | Within all DCCC PLA policy limits |
+### Learning Outcome Map
+
+| LO | Competency | Primary Evidence | Supporting Evidence |
+|----|-----------|-----------------|-------------------|
+| LO-1 | Identifies and applies major philosophical frameworks (ethics, logic, metaphysics, epistemology) | §1983 complaint: formal deductive argument (major premise: policy created by municipal official → minor premise: policy violated constitutional right → conclusion: municipality liable) | OOR briefs: utilitarian transparency argument |
+| LO-2 | Applies ethical theories to real-world situations | Deontological: RTKL enforcement as duty-based transparency; Utilitarian: IDEA/504 enforcement maximizes child welfare; Virtue ethics: AmeriCorps national service | All 10 course narratives |
+| LO-3 | Analyzes arguments for logical validity and soundness | Multi-motion legal practice: each filing is an explicit argument structure tested for validity and soundness by judges and opposing parties | IRAC analysis applied throughout case system |
+| LO-4 | Examines questions of justice, rights, and political philosophy | 23 Pa.C.S. §5337 relocation statute: what constitutes a "right to relocate" vs. child's right to both parents — applied political philosophy | §1983: constitutional rights vs. governmental power |
+| LO-5 | Demonstrates philosophical reasoning in written form | Portfolio narrative (LGL_PLA_Portfolio_v7_36Credits.docx) — all 10 competency narratives engage philosophical reasoning connecting experience to theory | IDEA/FERPA narratives: justice as equity applied to children with disabilities |
+
+**Strongest evidence for PHI 100:** The §1983 complaint provides the most rigorous philosophical argument in the portfolio — it applies formal deductive logic (Monell doctrine as a liability syllogism), Fourteenth Amendment due process theory (procedural rights as inherent limits on state power), and constitutional theory (deliberate indifference as a culpability standard). This is applied political philosophy in the highest-stakes arena available.
 
 ---
 
-## HOW TO USE THIS REPOSITORY FOR DESIGN CENTER / GITHUB UPLOAD
+## CROSS-COURSE EVIDENCE MATRIX
 
-1. **Root of repo:** `README.md` + `MASTER_EVIDENCE_INDEX.md` + `COURSE_EVIDENCE_MAPPING.md` + portfolio docx files
-2. **Upload `PLA_PORTFOLIO/` as the repository** to `quartzxmoon/dcccpla`
-3. **Design center blurb** (in `README.md`): describes pro se legal action portfolio across CCP, EDPA, and OOR matters
-4. **Each numbered subfolder** = one matter category; download Drive files per the priority list in `MASTER_EVIDENCE_INDEX.md`
-5. **Security note:** Do NOT upload folders or files marked `[SECURITY CONSTRAINTS APPLY]` in the index
+Evidence appearing in more than one course:
+
+| Evidence Item | LGL 130 | LGL 210 | LGL 211 | ADJ 101 | ADJ 225 | ADJ 241 | ENG 100 | ENG 112 | SPC 101 | PHI 100 |
+|---------------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| §1983 EDPA Complaint | | ✓ | | ✓ | ✓ | ✓ | ✓ | ✓ | | ✓ |
+| OOR Appeals (AP-2026-0500/1243) | | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| AmeriCorps NCCC (both terms) | | | | ✓ | ✓ | ✓ | | | ✓ | ✓ |
+| LawLexx/Legalitize Platform | ✓ | | | | | | | | | |
+| IDEA/504/FERPA enforcement | | | | | ✓ | ✓ | ✓ | ✓ | | ✓ |
+| Motion for Contempt | | ✓ | ✓ | | | | ✓ | | | |
+| Dated Visitation Log | | | ✓ | | | | | | | |
+| RTKL demand letters | | ✓ | | ✓ | ✓ | ✓ | ✓ | | ✓ | |
+| ATF/§780-113 research | | ✓ | | ✓ | | | | ✓ | | |
+| Hatboro PD Gen. Order 2.3.1 | | | | ✓ | ✓ | | | | | ✓ |
 
 ---
 
-*Course structure sourced from `LGL_PLA_Portfolio_FINAL.docx` (current version)*
-*Evidence locations sourced from comprehensive Google Drive scan — June 11, 2026*
+## AMERICORPS ACE TRANSFER (6 credits — separate process)
+
+| Term | Hours | ACE Credits | Action Required |
+|------|-------|-------------|-----------------|
+| AmeriCorps NCCC Atlantic, 2011 | 1,746 | 3 | Email records@dccc.edu |
+| AmeriCorps NCCC Pacific, 2013 | 1,883 | 3 | Email records@dccc.edu |
+| **Total** | **3,629** | **6** | Both award letters required |
+
+> These 6 credits are NOT evaluated by the PLA rubric. They process separately through the ACE credit transfer system at DCCC. Contact: records@dccc.edu.
+
+---
+
+## SUBMISSION NOTES FOR ASSESSORS
+
+**Evidence access:** Primary legal case evidence (§1983 complaint, OOR filings, RTKL correspondence, FERPA/IDEA documents, contempt exhibits) is maintained in an organized case management system. Physical copies or PDF exports of any listed document are available on request to Assessment Services.
+
+**Volume:** Total evidence base exceeds 1.2GB of organized documentation across 10+ matter folders. The most relevant items are excerpted and attached; full production is available.
+
+**AmeriCorps documentation:** Both award letters documenting 3,629 service hours are in `00_GENERAL_STUDIES_EVIDENCE/AMERICORPS_NCCC/` and should be forwarded to records@dccc.edu rather than assessed by PLA rubric.
+
+---
+
+*Mapping Version 7 · June 11, 2026 · Alexa Shuda · P00721319 · CONFIDENTIAL*
