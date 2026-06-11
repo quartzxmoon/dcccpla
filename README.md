@@ -1,60 +1,91 @@
-# DCCC PLA — Pro Se Legal Action Portfolio
-## Delaware County Court of Common Pleas & Eastern District of Pennsylvania
+# DCCC Prior Learning Assessment — Portfolio Submission System
+## Legal and Paralegal Studies (LGL) · AA Degree · Version 7
 
-**Alexa Shuda | Pro Se Litigant & Authorized Legal Agent**
-**Durable Power of Attorney — Thomas Shuda → Alexa Shuda (July 24, 2025)**
-
----
-
-## About This Repository
-
-This repository is the organized evidence and document portfolio for concurrent pro se legal matters including:
-
-- **Delaware County CCP No. 2016-5628** — Custody, contempt, and relocation violation proceedings
-- **EDPA Federal Court** — 42 U.S.C. § 1983 civil rights action against Hatboro Borough / Hatboro Police Department
-- **OOR AP-2026-0500 & AP-2026-1243** — Right-to-Know Law appeals before the PA Office of Open Records
-- **Education Law** — FERPA, IDEA, Section 504, CPSL enforcement against Mountain View School District
+**Student:** Alexa Shuda (f.k.a. Rossini)
+**Student ID:** P00721319
+**Program:** AA in Legal and Paralegal Studies · Concentration: Law and Criminal Justice
+**Audit ID:** P00721319-A002u9po · Audit Date: 06/09/2026 · Catalog: Fall/Winter 2025
+**Submission Contact:** DCCC Assessment Services · 610-359-5322
 
 ---
 
-## Repository Structure
+## Submission Package (This Folder)
+
+| File | Purpose |
+|------|---------|
+| `LGL_PLA_Portfolio_v7_36Credits.docx` | **PRIMARY SUBMISSION** — Full portfolio, 10 courses, 36 credits |
+| `LGL_PLA_GradingRubric_v8.docx` | **ASSESSOR RUBRIC** — Standard PLA grading rubric for faculty use |
+| `audit-P00721319-A002u9po.pdf` | DCCC degree audit confirming credit requirements |
+| `MASTER_EVIDENCE_INDEX.md` | Evidence catalog organized by course |
+| `COURSE_EVIDENCE_MAPPING.md` | Course-by-course evidence-to-outcome mapping (v7) |
+| `00_GENERAL_STUDIES_EVIDENCE/` | Supporting evidence subfolder |
+
+---
+
+## v7 Credit Map — 36 / 36 Cap (COMPLIANT)
+
+| Category | Courses | Credits | Cap Rule |
+|----------|---------|---------|----------|
+| LGL Specialty | LGL 130, LGL 210, LGL 211 | 9 | AT 9-credit LGL PLA specialty cap |
+| ADJ / Concentration | ADJ 101, ADJ 225, ADJ 241 | 9 | Counts toward 36-cap only |
+| Gen Ed | ENG 100, ENG 112, SPC 101, PHI 100 | 12 | Counts toward 36-cap only |
+| AmeriCorps ACE | 2 NCCC terms (3,629 hrs) | 6 | Separate ACE transfer via records@dccc.edu |
+| **TOTAL** | **10 PLA courses + ACE** | **36** | Full 36-credit nontraditional cap |
+
+> **IMPORTANT:** The LGL specialty cap is 9 credits max via PLA portfolio. This portfolio is AT that cap with LGL 130, 210, and 211. ADJ and Gen Ed courses count toward the overall 36-credit cap only — NOT the LGL specialty cap.
+
+---
+
+## Course List (v7)
+
+| # | Course | Cr | Category | Primary Evidence |
+|---|--------|-----|----------|-----------------|
+| 1 | LGL 130 — Technology in the Law [TC] | 3 | LGL | LawLexx/Legalitize platform, 251+ API endpoints |
+| 2 | LGL 210 — Civil Litigation & Tort Principles | 3 | LGL | §1983 complaint, PA CCP filings, RTKL appeals |
+| 3 | LGL 211 — Civil Litigation & Tort Applications | 3 | LGL | 1.2GB+ indexed evidence, 18-exhibit assembly |
+| 4 | ADJ 101 — Introduction to Criminal Justice | 3 | ADJ | IA records, Hatboro PD documents, RTKL/FOIA |
+| 5 | ADJ 225 — Ethics in Criminal Justice | 3 | ADJ | §1983 accountability, disability rights, AmeriCorps |
+| 6 | ADJ 241 — Criminal Justice and Diversity [DJ] | 3 | ADJ | Civil rights advocacy, IDEA/504, AmeriCorps service |
+| 7 | ENG 100 — English Composition I | 3 | GEN | Legal filings, formal correspondence, OOR appeals |
+| 8 | ENG 112 — English Composition II (Research Writing) | 3 | GEN | Research briefs, Bluebook citations, multi-source docs |
+| 9 | SPC 101 — Oral Communication | 3 | GEN | Court/agency appearances, AmeriCorps leadership |
+| 10 | PHI 100 — Introduction to Philosophy | 3 | GEN | Ethical reasoning, RTKL transparency theory |
+
+---
+
+## Evidence Base Summary
+
+All 10 courses draw from documented prior learning across:
+
+- **Pro se civil litigation (9+ years):** Active cases in Delaware County CCP and EDPA federal court. Constitutional tort (42 U.S.C. §1983), PA family law (23 Pa.C.S. §5337 relocation), RTKL/FOIA transparency enforcement, OOR appeals (AP-2026-0500 and AP-2026-1243).
+- **Legal technology platform:** Founder/developer of LawLexx / Legalitize — production legal AI SaaS with 251+ API endpoints, AI-assisted document drafting, matter management, legal research integration, and automated court form generation.
+- **Education law:** FERPA, IDEA, Section 504, CPSL enforcement against Mountain View School District on behalf of minor children with IEPs.
+- **AmeriCorps NCCC:** Atlantic term 2011 (1,746 hrs) + Pacific term 2013 (1,883 hrs) = 3,629 total documented hours across 2 national service terms = 6 ACE credits.
+- **Written and oral advocacy:** Court filings, OOR appeal briefs, agency formal correspondence, courtroom and agency appearances across multiple jurisdictions.
+
+---
+
+## Evidence Folder Structure
 
 ```
-├── 01_CUSTODY_CCP_2016-5628/       Custody orders, text messages, calendars, GAL report
-├── 02_RELOCATION_VIOLATION/         23 Pa.C.S. § 5337 evidence and documentation
-├── 03_CONTEMPT_EVIDENCE/            Withheld visitation log, mail tracking, motion to vacate
-├── 04_HATBORO_1983_EDPA/            § 1983 complaint, Internal Affairs records, call transcript
-├── 05_RTKL_OOR_APPEALS/             RTKL requests, OOR appeal briefs, Exhibits A–R
-├── 06_EDUCATION_FERPA_IDEA/         FERPA/IDEA/504/CPSL documentation
-├── 07_EVIDENCE_EXHIBITS/            Threat documentation, child records, key evidence
-├── 08_POA_AUTHORITY/                Notarized Durable Power of Attorney (July 24, 2025)
-├── 09_LEGAL_DRAFTS_FILED/           All drafted motions, complaints, petitions
-├── 10_BACKGROUND_CREDIBILITY/       2017 federal court testimony background
-└── MASTER_EVIDENCE_INDEX.md         Complete indexed catalog of all evidence
+00_GENERAL_STUDIES_EVIDENCE/
+├── AMERICORPS_NCCC/               AmeriCorps award letters (Atlantic + Pacific)
+├── CIS_LGL130_TECH_PLATFORM/      LawLexx/Legalitize platform documentation
+├── BUS_ENTREPRENEURSHIP_LLC/      Shada Enterprises LLC filings
+└── WOMANS_WRENCH_BRAND/           Brand identity documentation
 ```
 
----
-
-## Key Legal Theories
-
-### Custody / Relocation
-- Unilateral relocation ~180 miles (Essington PA → Nicholson PA) without court approval
-- Violation of 23 Pa.C.S. § 5337 (relocation statute — researched and documented since June 2023)
-- Contempt of May 2018 Stipulated Order (Judge Whelan)
-- 23+ consecutive weekends of withheld parenting time
-
-### § 1983 — Hatboro PD
-- ATF Form 4473 threshold analysis: 35 Pa. § 780-113 carries max 1 year, not "exceeding one year"
-- Monell policy/custom liability: Chief Ruegg's chain-of-command email as direct evidence
-- Det. Woods: "SEE YOU IN COURT" — full call transcript July 22, 2025
-- Hatboro PD General Order 2.3.1 — Internal Affairs policy establishing written custom
-
-### RTKL / OOR
-- Two separate OOR appeals (AP-2026-0500 and AP-2026-1243) challenging Hatboro PD's withholding of IA records
-- Exhibits A–R submitted to OOR including Dilks admissions affidavit
+The primary legal evidence (court filings, IA records, RTKL documents, custody records, FERPA/IDEA documents) is maintained in the LawLexx case management system and referenced in MASTER_EVIDENCE_INDEX.md.
 
 ---
 
-*Total evidence volume: ~1.2GB+ across all legal matters*
-*Repository maintained as part of DCCC Prior Learning Assessment portfolio*
-# dcccpla
+## Submission Checklist
+
+- [ ] Call Assessment Services (610-359-5322) — confirm submission appointment
+- [ ] Email records@dccc.edu with AmeriCorps NCCC award letters — initiate 6-credit ACE transfer
+- [ ] Confirm exact DCCC catalog titles for ENG 112 and PHI 100
+- [ ] Submit: Portfolio (.docx) + Rubric (.docx) + Audit PDF to Assessment Services
+
+---
+
+*Portfolio Version 7 · June 2026 · CONFIDENTIAL — FOR DCCC ASSESSMENT SERVICES USE ONLY*
