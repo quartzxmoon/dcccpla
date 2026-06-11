@@ -1,7 +1,7 @@
 # COURSE EVIDENCE MAPPING
 ## DCCC Prior Learning Assessment — Legal and Paralegal Studies (LGL) · Version 7
 **Student:** Alexa Shuda (f.k.a. Rossini) · P00721319
-**30 PLA Credits (10 Courses) + 6 ACE Credits = 36 Total · Catalog: Fall/Winter 2025**
+**30 PLA Credits (10 Courses) + 6 ACE Credits = 36 Total · Catalog: Fall/Winter 2026**
 
 ---
 

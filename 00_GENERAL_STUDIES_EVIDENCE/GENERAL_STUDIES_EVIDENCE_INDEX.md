@@ -1,7 +1,7 @@
 # General Studies Evidence Index
 ## DCCC PLA — Attached Evidence Files
 **Alexa Shuda · Student ID: P00721319 · LGL Program · Version 7**
-**Catalog: Fall/Winter 2025 · Index Updated: June 11, 2026**
+**Catalog: Fall/Winter 2026 · Index Updated: June 11, 2026**
 
 ---
 

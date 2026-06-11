@@ -1,7 +1,7 @@
 # MASTER EVIDENCE INDEX
 ## DCCC Prior Learning Assessment — Legal and Paralegal Studies (LGL) · Version 7
 **Student:** Alexa Shuda (f.k.a. Rossini) · P00721319
-**Compiled:** June 11, 2026 · Catalog: Fall/Winter 2025 · 10 Courses · 36 Credits
+**Compiled:** June 11, 2026 · Catalog: Fall/Winter 2026 · 10 Courses · 36 Credits
 
 ---
 
